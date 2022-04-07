@@ -1,0 +1,32 @@
+.btn{
+    /* padding: 10px 10px; */
+    padding-left: 10px;
+    background: #8985;
+}
+.edit{
+    padding:5px 10px;
+    background:rgb(86, 86, 139);
+    color: white;
+    font-weight: 100;
+    font-size:13px;
+}
+.dlt{
+    padding:5px 10px;
+    background:rgb(145, 6, 6);
+    color: white;
+    font-weight: 100;
+    font-size:13px;
+}
+.edit:hover,dlt:hover{
+    color: rgba(255, 255, 255, 0.333);
+}
+.btn-primary{
+    padding: 10px;
+    background:rgb(47, 47, 163);
+    color:white;
+       
+}
+.bg{
+    background: #8985;
+    width: 100%;
+}
